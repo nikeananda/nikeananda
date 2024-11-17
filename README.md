@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Nike Ananda!:
+# 👋 Hi, I'm Nike Ananda!
 👩🏻‍🎓 A Computer Science Fresh Graduate from Universitas Jember<br>👩🏻‍💻 Currently learning about data analytics and data science<br>
 
 
